@@ -32,7 +32,6 @@ Thus the code will run never stop
 
 ## Sponsor
 
-![support](https://raw.githubusercontent.com/bonfy/image/master/global/sponsor.jpg)
 
 ## License
 

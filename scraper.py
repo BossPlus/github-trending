@@ -66,6 +66,8 @@ def job():
     scrape('swift', filename)
     scrape('javascript', filename)
     scrape('go', filename)
+    scrape('java', filename)
+
 
     # git add commit push
     # git_add_commit_push(strdate, filename)
